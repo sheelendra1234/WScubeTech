@@ -1,0 +1,165 @@
+*{
+    font-family: "Inter", serif;
+}
+
+.whatsappbtn{
+    border: 1px solid #27ae60;
+    padding: 10px 18px;
+    color: #27ae60;
+    font-size: 16px;    
+}
+
+.whatsappbtn:hover{
+    border: 1px solid #27ae60;
+}
+
+.whatsappbtn i{
+    color: #27ae60;
+}
+
+.call{
+    background: linear-gradient(to right, #0ACEFE, #2699fb);  /* linear gradient is new property of css. ( https://www.w3schools.com/css/css3_gradients.asp ) */
+    color: white;
+    padding: 10px 18px;
+}
+
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.bannerContent h1 span{
+    color: #2699fb;
+}
+
+.bannerContent p{
+    font-size: 22px;
+}
+
+.bannerContent ul{
+    list-style: none;
+}
+
+.bannerContent ul li{
+    font-size: 22px;
+}
+
+.bannerContent ul li i{
+    color: #2699fb;
+}
+
+.bannerContentBtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+}
+
+.bannerContentBtn button:first-child{
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699fb);   
+}
+
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.bannerForm h2{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bannerForm button{
+    width: 100%;
+    color: white;
+    border: none;
+    padding: 10px 0px;
+    background: linear-gradient(to right, #0ACEFE, #2699fb);
+}
+
+.conunterSection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699fb;
+}
+
+.highlights-section{
+    background-color: #f7faff;
+}
+
+.highlights-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.highlights-section p{
+    color: #0A2134;
+    font-size: 18px;
+}
+
+.highlights-section button{
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699fb);
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+}
+
+.careerAndMarketing h2{
+    color: #0A2134;
+}
+.careerAndMarketing p{
+    color: #0A2134;
+}
+
+.careerItems{
+    background-color: #F7FAFF;
+}
+
+.HighlightsItems h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.HighlightsItems p{
+    font-size: 15px;
+}
+
+.Certification{
+    background-color: #F7FAFF;
+}
+
+#navbarNav ul li a{
+    font-weight: bold;
+    margin-right: 15px;
+    color: #0ACEFE;
+}
+
+.tabItemsContent ul{
+    list-style: none;
+}
+
+.tabMySystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+background-color: #F2F4F7;
+color: #0A2134;
+border-radius: 0px;
+border-bottom: 2px solid #2699fb;
+}
+
+.digitalMarketing{
+    background-color: #F7FAFF;
+}
+
+.studentSays{
+    background-image: linear-gradient(to right, #0ACEFE, #2699fb);
+    color: white;
+}
+
+.studentSays img{
+    width: 200px;
+}
+
+.finalBlock{
+    background-color: #0A2540;
+}
